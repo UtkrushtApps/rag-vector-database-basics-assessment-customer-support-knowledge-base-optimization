@@ -1,0 +1,11 @@
+id,title,category,priority,date,body
+1,Reset Password,Basic,Low,2022-05-20,"To reset your password, go to Settings..."
+2,Billing Issue,Finance,High,2022-07-11,"If you see a charge on your statement..."
+3,Account Closure,Account,Medium,2022-06-09,"To close your account permanently..."
+4,Multi-Factor Auth,Security,High,2022-08-14,"MFA adds an extra layer of security..."
+5,Refund Policy,Finance,Medium,2022-03-28,"Our refund policy states that..."
+6,Shipping Delays,Logistics,Medium,2022-04-21,"For delayed shipments, first check..."
+7,Unable to Login,Basic,High,2022-01-15,"If you cannot login, check your email..."
+8,Cancel Subscription,Account,Medium,2022-09-05,"To cancel, visit your dashboard..."
+9,Update Email,Basic,Low,2022-02-08,"To update your email address..."
+10,Suspicious Activity,Security,High,2022-10-13,"If you notice suspicious account usage..."
